@@ -1,0 +1,39 @@
+# Go generated binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build executables and folders
+*.test
+*.out
+bin/
+build/
+
+# Go cache files
+*.log
+*.tmp
+*.prof
+*.test
+*.coverprofile
+*.cov
+*.test
+*.cover
+*.pprof
+
+# Go Modules cache folder
+pkg/
+
+# Vendor folder (if you don't want to version dependencies)
+vendor/
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment files
+.env
+
