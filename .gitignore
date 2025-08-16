@@ -22,6 +22,8 @@ build/
 *.cover
 *.pprof
 
+tmp/
+
 # Go Modules cache folder
 pkg/
 
